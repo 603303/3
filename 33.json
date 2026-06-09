@@ -187,11 +187,23 @@ http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
         },
 {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png",
-            "name": "天神"
+            "name": "天神-需要原版box"
+        },
+        {
+            "url": "https://ztha.top/TVBox/thdjk.json",
+            "name": "挺好接口"
+        },
+        {
+            "url": "http://szyyds.cn/tv/x.json",
+            "name": "小马线路（3.29） [在线]"
+        },
+        {
+            "url": "http://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "南风线路"
         },
         {
             "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
-            "name": "青龙线路（3.29） [在线]"
+            "name": "（3.29） [在线]"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json",
