@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "https://www.yingm.cc/dm/dm.json",
-            "name": "动漫城"
+            "name": "动漫城-260610"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
@@ -22,11 +22,11 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": "荷城接口]"
+            "name": "荷城接口"
         },
         {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
-            "name": "Easy接口"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+            "name": "有福利接口"
         },
         {
             "url": "https://11405.kstore.space/xiaye/qk4k.json",
@@ -97,8 +97,7 @@
             "name": "苍蓝接口"
         },
         {
-            "url": "
-http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "王小二放牛娃"
         },
         {
@@ -209,7 +208,8 @@ http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "url": "https://wget.la/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
             "name": "雷蒙4K接口"
         },
-        "url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json",
+        {
+            "url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json",
             "name": "小米哥哥"
         },
         {
