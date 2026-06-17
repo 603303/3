@@ -41,6 +41,10 @@
             "name": "ZB181.txt"
         },
         {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/603303/ZB/refs/heads/main/ZB182.txt",
+            "name": "ZB182.txt"
+        },
+        {
             "url": "https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json",
             "name": "TV直播etaishun.com/m3u8/"
         }
