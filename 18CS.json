@@ -66,6 +66,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+      {
+      "key": "荣荣影视",
+      "name": "荣荣影视",
+      "type": 1,
+      "api": "https://tv.rrys.dpdns.org/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "ck",
       "name": "CK",
